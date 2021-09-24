@@ -1,3 +1,11 @@
+[GitHub Actions](https://github.com/features/actions) 👍
+
+<details>
+<summary>Travis CI 🖕</summary>
+<br>
+
+> Builds have been temporarily disabled for private and public repositories due to a negative credit balance. Please go to the Plan page to replenish your credit balance.
+
 # How to Use Travis CI with Java on GitHub
 [![Build Status](https://travis-ci.com/CCXXXI/Travis_CI_Tutorial.svg?branch=main)](https://travis-ci.com/CCXXXI/Travis_CI_Tutorial)
 [![codecov](https://codecov.io/gh/CCXXXI/Travis_CI_Tutorial/branch/main/graph/badge.svg?token=DGWP5JABPI)](https://codecov.io/gh/CCXXXI/Travis_CI_Tutorial)
@@ -119,3 +127,4 @@ deploy:
 
 ![acatar](https://github.com/kreattang/TravisCI_Java/blob/main/img/20210530113941.jpg)
 
+</details>
